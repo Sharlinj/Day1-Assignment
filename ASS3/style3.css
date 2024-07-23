@@ -1,0 +1,30 @@
+.box{
+    width: 380px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    padding: 0%;
+    margin: 100px auto;
+
+}
+img{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 250px;
+}
+h4{
+    color: grey;
+}
+.ibox{
+    padding: 20px;
+    padding-top: 0%;
+    font-family: cambria;
+    
+}
+.btn{
+    background-color: white;
+    color: rgb(0, 149, 255);
+    border: 1px solid lightgray;
+    padding: 10px 25px;
+}

@@ -1,0 +1,46 @@
+.box{
+    width: 320px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid lightgray;
+    margin: 100px auto;
+}
+input{
+    width:100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+}
+.btn{
+    width:75%;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+}
+.bbox a, .bbox{
+    color: gray;
+    margin-top: 35px;
+}
+a{
+    color: black;
+}
+.box p{
+    color: gray;
+}
+h1{
+    font-size: 40px;
+}
+.icon i{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+}
+.icon{
+    position: relative;
+    width: 100%;
+}
